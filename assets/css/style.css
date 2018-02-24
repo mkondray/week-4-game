@@ -1,0 +1,32 @@
+body {
+	background-color: crimson;
+	background-image: url("../images/Transparent\ Pattern.png");
+	color: white;
+}
+
+h1 {
+	font-size: 70px;
+}
+
+#wrapper {
+	margin: 20px auto;
+	width: 60%;
+	text-align: center;
+	background-color: crimson;
+	font-size: 21px;
+	font-weight: bold;
+	line-height: 1.3em;
+	border: 2px dashed #fff;
+	border-radius: 100px;
+	text-shadow: -1px -1px crimson;
+	font-weight: normal;
+}
+
+#header {
+	padding-top: 20px;
+	font-family: "snell roundhand";
+}
+
+#winlosscounter {
+	padding-bottom: 15px;
+}
